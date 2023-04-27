@@ -1,4 +1,4 @@
-package com.wruthless.json.springbootmmjson;
+package org.wruthless.json.springbootmmjson;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
