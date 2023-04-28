@@ -12,6 +12,10 @@
     <groupId>org.wruthless</groupId>
     <artifactId>web-model</artifactId>
 
+    <properties>
+        <sprint-boot.repackage.skip>true</sprint-boot.repackage.skip>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.commons</groupId>
